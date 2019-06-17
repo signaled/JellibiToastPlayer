@@ -1,8 +1,10 @@
 # Jellibi Toast (v1.0) Player
 
-Jellibi Toast(v1.0) Player 는 Toast 보드 기반으로 블루투스를 통해 주행하고 그리퍼를 조작하여 움직이는 프로젝트입니다.  
+**Jellibi Toast 보드(v1.0)** 는 아두이노 나노 호환보드이며 확장보드를 통해 블루투스 통신이 가능하고 네개의 서보 모터를 동시에 제어를 할 수 있습니다.  **Jellibi Toast(v1.0) Player** 는 Toast 보드 기반으로 블루투스를 통해 주행하고 그리퍼를 조작하여 움직이는 프로젝트입니다.  
 
-Jellibi Toast 보드(v1.0) 는 아두이노 나노 호환보드이며 확장보드를 통해 블루투스 통신이 가능하고 네개의 서보 모터를 동시에 제어를 할 수 있습니다. 
+아래 동영상 속 젤리비 토스트보드에 적용된 코드 입니다. 
+
+[![로봇젤리비 그리퍼 축구경기](https://img.youtube.com/vi/yERpX4W8eDM/0.jpg)](https://youtu.be/yERpX4W8eDM?t=0s "로봇젤리비 그리퍼 축구경기")
 
 
 
